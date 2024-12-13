@@ -10,10 +10,10 @@ All functions are tested under:
 ## Functions
 
 - [x] Sensors
-- [ ] Touchscreen
-- [ ] Wireless (Wi-Fi, Bluetooth)
+- [x] Touchscreen
+- [x] Wireless (Wi-Fi, Bluetooth)
 - [ ] Sound
 
 Unknown:
 
-- [ ] GPS
+- GPS
